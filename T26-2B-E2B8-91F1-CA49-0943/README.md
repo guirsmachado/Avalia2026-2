@@ -4,7 +4,7 @@
 - **Estudante:** Guilherme Rodrigo Senter Machado
 - **Turma:** 2B
 - **Chave Única:** `T26-2B-E2B8-91F1-CA49-0943`
-- **URL_CLOUDFLARE:** `https://t26-2b-e2b8-91f1-ca49-0943.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** ` https://caronas-teste.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
 
 ---
 
