@@ -4,8 +4,7 @@
 - **Estudante:** Guilherme Rodrigo Senter Machado
 - **Turma:** 2B
 - **Chave Única:** `P26-2B-DEE4-F0F5-E242-5759`
-- **URL_CLOUDFLARE:** `https://p26-2b-dee4-f0f5-e242-5759.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
-
+- **URL_CLOUDFLARE:** `https://projeto-p26-2b-dee4-f0f5-e242-5759.pages.dev`
 ---
 
 ## Especificação do Projeto
